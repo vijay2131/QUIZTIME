@@ -62,4 +62,4 @@ EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 
 
 ## Feedback
-Any suggestion and feedback is welcome.
+Any suggestion and feedback is welcome. 
