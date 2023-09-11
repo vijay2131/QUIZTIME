@@ -1,5 +1,4 @@
 # QUIZ TIME
-![developer](https://img.shields.io/badge/Developed%20By%20Vijay%20Simha%20Reddy-red)
 ---
 ## Functions
 ### Admin
